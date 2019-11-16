@@ -5,7 +5,7 @@ GUI for designing oblique light-sheet microscopes
 "CrossbillDesign.ipynb" is the main GUI file.  
 
 If you use this GUI in your research, please cite it:  
-Manish Kumar and Yevgenia Kozorovitskiy, (2019)
+Manish Kumar and Yevgenia Kozorovitskiy, (2019)  
 Crossbill Design    
 doi: https://doi.org/10.5281/zenodo.3543787  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3543787.svg)](https://doi.org/10.5281/zenodo.3543787)
