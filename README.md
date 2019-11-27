@@ -1,5 +1,5 @@
 # Crossbill-Design
-GUI for designing oblique light-sheet microscopes
+## GUI for designing oblique light-sheet microscopes
 
 "CrossbillDesign_notes.pdf" has all the details about the GUI.  
 "CrossbillDesign.ipynb" is the main GUI file.  
